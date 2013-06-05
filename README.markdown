@@ -8,4 +8,10 @@ Implemented features:
 * Checks if player x won.
 * Ends game if player won.
 
+Missing features:
+
+* Check that position has not already been played.
+* Check that board is not full.
+* Display board as 2D matrix.
+
 
