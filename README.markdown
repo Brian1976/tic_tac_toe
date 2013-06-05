@@ -2,4 +2,6 @@
 
 Implemented features:
 
+* Player can set "x" on a board.
+
 
