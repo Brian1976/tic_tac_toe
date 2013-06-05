@@ -2,7 +2,7 @@ module TicTacToe
   class Player
     attr_accessor :x_or_y, :set_mark
 
-    def initialize
+    def initialize(x_or_y)
       @x_or_y = "x"
     end
 
