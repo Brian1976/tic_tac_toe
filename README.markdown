@@ -6,5 +6,6 @@ Implemented features:
 * Game initiates with player_x <!-- _. >
 * After each turn game switches plyer.
 * Checks if player x won.
+* Ends game if player won.
 
 
