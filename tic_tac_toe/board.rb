@@ -56,9 +56,5 @@ module TicTacToe
       end
       player_won
     end
-    
-    def end_game
-      
-    end
   end
 end
