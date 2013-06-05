@@ -11,10 +11,12 @@ module TicTacToe
     end
 
     def run_game
-      run_turn(@current_player)
-      puts "\n"
-      puts @state
-      puts "\n"
+      while true 
+        run_turn(@current_player)
+        puts "\n"
+        puts @state
+        puts "\n"
+      end
     end
 
     private

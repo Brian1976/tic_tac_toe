@@ -3,7 +3,7 @@ module TicTacToe
     attr_accessor :x_or_y, :set_mark
 
     def initialize(x_or_y)
-      @x_or_y = "x"
+      @x_or_y = x_or_y
     end
 
     def set_mark
