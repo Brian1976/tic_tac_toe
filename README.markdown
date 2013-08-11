@@ -13,5 +13,7 @@ Missing features:
 * Check that position has not already been played.
 * Check that board is not full.
 * Display board as 2D matrix.
+* 
+Partner Work
 
 
