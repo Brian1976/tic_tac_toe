@@ -1,4 +1,4 @@
-## Ruby Tic Tac Toe Demonstration
+## Ruby Tic Tac Toe Demonstration (with Brian Robinson)
 
 Implemented features:
 
